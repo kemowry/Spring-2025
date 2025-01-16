@@ -16,8 +16,8 @@ VS is an app used for coding and write in different programming languages all ac
 
 ### Version Control, Git, & GitHub
 
-Git is a software that students, employees and employers use to upload codes and more. It is flexible and can be used on many different types of devices, allowing people to connect easily. 
-[Git](https://github.com/kemowry/Spring-2025) My Folder :3
+Git is a software that students, employees and employers use to upload codes and more. It is flexible and can be used on many different types of devices, allowing people to connect easily. It is also very easy to link websites on this program, I will show this below! 
+[My Folder](https://github.com/kemowry/Spring-2025) :3
 
 ### Markdown & Documentation
 
