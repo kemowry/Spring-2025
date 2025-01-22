@@ -5,7 +5,7 @@
 What did you learn? 
 
 ### Live Links
-[Internal Scripts](https://kemowry.github.io/Spring-2025/week-2/index.html)
+[Internal Scripts](https://kemowry.github.io/Spring-2025/N220/week-2/index.html)
 
-[External Scripts](https://kemowry.github.io/Spring-2025/week-2/Outdex.html)
+[External Scripts](https://kemowry.github.io/Spring-2025/N220/week-2/Outdex.html)
 
