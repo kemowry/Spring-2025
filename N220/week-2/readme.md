@@ -6,4 +6,6 @@ What did you learn?
 
 ### Live Links
 
-[Home]()
+[Internal Scripts](https://github.com/kemowry/Spring-2025/blob/main/N220/week-2/index.html)
+
+[External Scripts](https://github.com/kemowry/Spring-2025/blob/main/N220/week-2/Outdex.html)
