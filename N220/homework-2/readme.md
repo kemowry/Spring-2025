@@ -6,6 +6,6 @@ My key takeaways for this lesson was exploring more on VS, it was interesting to
 
 
 ### Live Links
-[Internal Scripts](https://kemowry.github.io/Spring-2025/N220/week-2/index.html)
+[Internal Scripts](https://kemowry.github.io/Spring-2025/N220/homework-2/index.html)
 
-[External Scripts](https://kemowry.github.io/Spring-2025/N220/week-2/Outdex.html)
+[External Scripts](https://kemowry.github.io/Spring-2025/N220/homework-2/Outdex.html)
