@@ -2,7 +2,7 @@
 
 ### Weekly Recap
 
-This week I learned how to use boolean, string and work with variables. 
+This week I learned how to use boolean, string and work with variables. In my coding for the week, I found out about const which allows me to keep a variable the same throughout the code, jsut applying different commands to it that will expand off of it. I also felt that working with the true and false commands was the easiest type of command to work with in the coding for this week. 
 
 ### Live Link 
 

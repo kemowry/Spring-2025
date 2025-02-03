@@ -10,3 +10,4 @@ console.log("At least 8 characters long", atleast8CharactersLong)
 
 const containsEat = Password.includes("!eat");
 console.log("Contains eat", containsEat);
+// All of these codes are checking if the password information is true or not! 
