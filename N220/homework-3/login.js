@@ -1,13 +1,15 @@
-const Password = "(d0nteatTheScript)";
-// You use const because the password does not need to be changed
+const password = "d0nteatTheScript";
+// You set the password as const because it will not be changed 
+const passwordstartsWithSpace = " "
+// You do this to make the variable so that it is representing " "
+const atleast8Chars = 8; 
+// You do this so that the variable is equal to 8 chars 
+const containsEat = "eat";
+// You do this to see if the password contains eat 
 
-const passwordstartsWithSpace = Password.startsWith(" ");   
-console.log("Start with space", passwordstartsWithSpace);
-
-const atleast8CharactersLong = Password.length >= 8;
-// You use this boolean code because it allows the use to know if the password length is true or false 
-console.log("At least 8 characters long", atleast8CharactersLong)
-
-const containsEat = Password.includes("!eat");
-console.log("Contains eat", containsEat);
-// All of these codes are checking if the password information is true or not! 
+console.log(password.startsWith(passwordstartsWithSpace));
+// You check if the password starts with " ", using string 
+console.log(passwordstartsWithSpace >= atleast8Chars);
+// You use boolean to see if the password is greater or equal to 8 chars 
+console.log(password.includes(containsEat));
+// You use string to see if the password includes the word "eat"

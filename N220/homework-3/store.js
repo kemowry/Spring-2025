@@ -1,20 +1,16 @@
 const itemPrice = 40.99;
 // You set it as a const because the price will never change
+const salesTax = 0.07; 
+// You set it as this because it is the sales tax 
+const discountRate = 0.10; 
+// You set it as the discount rate 
+const discountAbility = 50; 
+// You set it as this to signify the minimum price for the discount
 
-const salesTax = 0.07;
-const discountRate = 0.10;
-const discountThreshold = 50;
-// The price stays the same 
+console.log(itemPrice * (1 * salesTax)); 
+// Use this to show the total price with tax on your webpage
+console.log(itemPrice > discountAbility); 
+// Use this to show up on your webpage and see if it is greater than 50$
+console.log(itemPrice * (1 + salesTax) * (1 - discountRate));
+// Use this to calculate the price with tax and discount
 
-const totalAfterTax = itemPrice * (1 + salesTax);
-console.log("Total after tax", totalAfterTax);
-// This gives the total of the price after tax, it will stay the same which is why I used const
-
-const qualifiesforDiscount = itemPrice > discountThreshold;
-// This boolean code lets us know if the discount qualifies or not 
-console.log("Qualifies for Discount", qualifiesforDiscount);
-// You do this to check for the item and if it qualifies for a discount 
-
-const discountTotalAfterTax = itemPrice * (1 + salesTax) * (1 - discountRate);
-console.log("Discounted total after tax", discountTotalAfterTax);
-// Discounted total after taxation 

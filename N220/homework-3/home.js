@@ -1,14 +1,16 @@
-let radius = 5;
-// You use let because radius can be changed, the radius of the circle is 5.
+const radius = 5 
+// You use const because it will keep the radius of the circle the same 
 
-let area = Math.PI * Math.pow(radius, 2);
-// You use let because the radius is 5 and needs to be equated 
+let area = 0; 
+// You are trying to find the area so it starts at 0, this can be changed 
+let perimeter = 0;
+// You are trying to fidn the perimeter so it starts at 0, this can be changed
 
-console.log("Area of circle", area);
-// Use console log so that the equation will show up on your webpage
+area = Math.PI * Math.pow(radius, 2);
+// You calculate the area by using the formula provided 
+perimeter = 2 * Math.PI * radius; 
+// You do the same as you did, using the formula for perimeter
 
-let perimeter = 2 * Math.PI * radius;
-// You use let because the perimeter needs to be changed for the equation
-
-console.log("Perimeter of circle", perimeter);
-// You use console log so that the perimeter can show up on your webpage
+console.log("Area of Circle", area);
+console.log("Perimeter of Circle", perimeter);
+// You log it so that it shows up on your webpage
