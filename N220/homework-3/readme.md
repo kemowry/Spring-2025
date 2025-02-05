@@ -6,7 +6,7 @@ This week I learned how to use boolean, string and work with variables. In my ho
 
 ### Live Link 
 
-[Home Page](https://kemowry.github.io/Spring-2025/N220/homework-3/readme/md/index.html)
+[Home Page](https://kemowry.github.io/Spring-2025/N220/homework-3/readme.md/index.html)
 
 [Store](https://kemowry.github.io/Spring-2025/N220/homework-3/readme.md/store.html)
 
